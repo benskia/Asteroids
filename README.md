@@ -9,7 +9,9 @@ The classic shooter made with Pygame.
 ## How to Run
 
 From project root:
+
 `pip install -r requirements.txt`
+
 `python3 main.py`
 
 ## How to Play
